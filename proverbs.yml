@@ -1765,3 +1765,18 @@
     ie:
       - "When pigs fly."
       - "When hell freezes over."
+
+- ko: "군불에 밥짓기."
+  dict:
+    "군불":
+      en: "a fire kindled to keep a room warm"
+  en:
+    lit: "room-fire-for boiling-rice"
+    trans:
+      - "Using the room-fire to boil rice."
+    means:
+      - >
+        While doing some task, it winds up accomplishing an unrelated
+        task as well.
+    ie:
+      - "Kill two birds with one stone."
