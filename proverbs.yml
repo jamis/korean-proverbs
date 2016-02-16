@@ -1780,3 +1780,14 @@
         task as well.
     ie:
       - "Kill two birds with one stone."
+
+- ko: "굳은 땅에 물이 괸다."
+  en:
+    lit: "hardened dung-on water collects"
+    trans:
+      - "Water collects on hardened dung."
+    means:
+      - >
+        Just as water collects on the bottom of hardened dung,
+        a frugal person who does not spend needlessly can amass
+        wealth.
