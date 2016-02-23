@@ -1864,3 +1864,15 @@
       - "Don't pointlessly interfere with someone else's task."
     ie:
       - "Sit back and enjoy the show (or ride)."
+
+- ko: "궁지에 몰린 쥐, 고양이를 문다."
+  en:
+    lit: "dilemma driven(to) mouse, cat bites"
+    trans:
+      - "The cornered mouse bites the cat."
+    means:
+      - >
+        While running from the cat, the mouse is driven to a dead-end,
+        and is made to attack as a matter of life or death. Thus, in
+        order to not injure one's self, one might forego escape and
+        pursue one's enemy.
