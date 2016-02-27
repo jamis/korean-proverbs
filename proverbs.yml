@@ -1907,3 +1907,13 @@
       - >
         When something you need is not available, you can substitute
         something similar.
+
+- ko: "꿩 먹고 알 먹고."
+  en:
+    lit: "pheasant eat-and egg eat-and"
+    trans:
+      - "Take the pheasant, and the egg, too."
+    means:
+      - "Do one task, and reap two rewards."
+    ie:
+      - "Kill two birds with one stone."
