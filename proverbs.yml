@@ -1917,3 +1917,13 @@
       - "Do one task, and reap two rewards."
     ie:
       - "Kill two birds with one stone."
+
+- ko: "꿩이 콩밭 생각하듯 한다."
+  en:
+    lit: "pheasant bean-field think-about-like do"
+    trans:
+      - "Like a pheasant considering a bean field."
+    means:
+      - >
+        This suggests someone is mindlessly performing some task,
+        thinking only about eating.
