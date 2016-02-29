@@ -1927,3 +1927,25 @@
       - >
         This suggests someone is mindlessly performing some task,
         thinking only about eating.
+
+- ko: "꿩 잡는 것이 매다."
+  en:
+    lit: "pheasant catching thing (whip|hawk)-is"
+    trans:
+      - "A whip for catching pheasants."
+      - "A hawk for catching pheasants."
+    means:
+      - >
+        You use whatever method you must in order to accomplish some
+        goal.
+
+- ko: "귀가 보배다."
+  en:
+    lit: "ear treasure-is"
+    trans:
+      - "The ear is a treasure."
+    means:
+      - >
+        You might have little that you have learned by study, but much
+        that you've heard along the way, so this says that your ear
+        is like a valuable treasure.
