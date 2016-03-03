@@ -1969,3 +1969,25 @@
       - >
         This says that you should magnanimously forgive those who seek
         your forgiveness.
+
+- ko: "귀엽게 키운 자식에 효자 없다."
+  en:
+    lit: "sweetly raised offspring-in dutiful-son absent"
+    trans:
+      - "No dutiful son from spoiled children."
+    means:
+      - >
+        If you raise your children too sweetly, they become ill-mannered
+        and do not learn to respect their parents.
+    ie:
+      - "Spare the rod and spoil the child."
+
+- ko: "귀한 자식, 매 한 대 더 때리랬다."
+  en:
+    lit: "beloved offspring, cane one item more strike"
+    trans:
+      - "Give the favorite child an extra beating."
+    means:
+      - >
+        The more beloved a child is, the more strictly you must
+        teach and train them.
