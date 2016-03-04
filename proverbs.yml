@@ -1993,3 +1993,13 @@
         teach and train them.
     ie:
       - "Spare the rod and spoil the child."
+
+- ko: "그림의 떡."
+  en:
+    lit: "painting's rice-cake"
+    trans:
+      - "The painting's cake."
+    means:
+      - >
+        Even though you can see it, you cannot eat it, so whether it
+        exists or not it has no substance.
