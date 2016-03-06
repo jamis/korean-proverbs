@@ -2013,3 +2013,12 @@
       - >
         Something is frightening in appearance only, and has no actual
         power.
+
+- ko: "그 아비에 그 자식."
+  en:
+    lit: "that father-from that offspring"
+    trans:
+      - "Those children, from that father."
+    means:
+      - >
+        If the father is a wicked man, the children will be bad, too.
