@@ -1,0 +1,200 @@
+- ko: "거미도 줄을 쳐야 벌레를 잡는다."
+  en:
+    lit: "spider-even cord weave-must insect catch."
+    trans:
+      - "Even the spider must build a web to catch a bug."
+    means:
+      - >
+        These words say that in order for any task turn out well,
+        there must be correct effort.
+
+- ko: "거지끼리 동냥 바가지 깬다."
+  en:
+    lit: "beggar-group begging gourd smash"
+    trans:
+      - "Beggars smash the begging gourd."
+    means:
+      - >
+        These words say that people who should sympathize with and
+        help one another, quarrel and injure each other.
+
+- ko: "거지는 고마운 줄을 모른다."
+  en:
+    lit: "beggar gratitude how-to not-know"
+    trans:
+      - "A beggar doesn’t know how to be grateful."
+    means:
+      - >
+        This means that whenever someone receives help in living
+        from someone else, they don’t know to think gratefully
+        about that help.
+
+- ko: "거지도 부지런해야 얻어 먹는다."
+  en:
+    lit: "beggar-even diligent-must obtain-and eat"
+    trans:
+      - "Even a beggar must be diligent in order to eat."
+    means:
+      - >
+        These words say that, when you try and receive food from
+        others, you must be diligent in order to not be late for
+        whatever task is needed to be able to go and eat.
+
+- ko: "거지가 동양 바가지 자랑하듯 한다."
+  en:
+    lit: "beggar begging gourd proud-of-like do"
+    trans:
+      - "Like a beggar, proud of his begging gourd."
+    means:
+      - >
+        This means that everyone has a thing they depend on and
+        are boastful of.
+      - >
+        This means to be proud of something that it is not appropriate
+        to be proud of.
+
+- ko: "거짓말도 해 버릇하면 는다."
+  en:
+    lit: "lie-even do-and form-habit-if improve"
+    trans:
+      - "You’ll even improve at lying if you make it a habit."
+    means:
+      - >
+        These words tell us to not do bad deeds from the beginning,
+        since the more you do bad deeds, the more they become a habit.
+
+- ko: "거짓말 사흘 안 건다."
+  en:
+    lit: "lie three-days not goes"
+    trans:
+      - "A lie won’t last three days."
+    means:
+      - "These words say that a lie cannot go long without being found out."
+
+- ko: "거짓말 십 리를 못 간다."
+  dict:
+    "리":
+      en: >
+        One li is traditionally about a third of a mile, and is
+        now standardized to half a kilometer.
+  en:
+    lit: "lie ten li cannot go"
+    trans:
+      - "A lie can’t go ten li."
+    means:
+      - >
+        This means that even though you can tell a lie and immediately
+        deceive someone, it cannot last long.
+
+- ko: "걱정이 반찬이면 상발이 무너진다."
+  en:
+    lit: "anxiety side-dish-is-if table-legs fall-down"
+    trans:
+      - "If anxiety is the side dish, the table collapses."
+    means:
+      - >
+        These words describe a person who worries uselessly and
+        doesn't even eat at the right time.
+
+- ko: "걱정도 팔자다."
+  en:
+    lit: "anxiety-too destiny-is"
+    trans:
+      - "Anxiety, too, is your lot."
+    means:
+      - "This means that you are worrying unnecessarily."
+
+- ko: "건너 산 쳐다보듯 한다."
+  en:
+    lit: "other-side mountain look-up-at-like do"
+    trans:
+      - "As if you’re looking up at the mountain on the other side."
+    means:
+      - >
+        This means that you do not have the same interest in your
+        own work as you do in others'.
+
+- ko: "건드리지 않은 벌이 쏠까?"
+  en:
+    lit: "vexing-not bee sting-shall?"
+    trans:
+      - "Shall the bee you’re not bothering sting you?"
+    means:
+      - "If I don’t injure others, others will not injure me."
+
+- ko: "걷기도 전에 뛰려고 한다."
+  en:
+    lit: "walking-too before-at run-try-say do"
+    trans:
+      - "Trying to run before you even walk."
+    means:
+      - >
+        This means that, even while unable to do an easy task,
+        one impatiently hurries to try and do a difficult task.
+
+- ko: "검다 희다 말이 많다."
+  en:
+    lit: "black-is white-is words many"
+    trans:
+      - "Whether it is black or white, there are many words."
+    means:
+      - >
+        This means that whether or not it is right to meddle,
+        there will be many scoldings.
+
+- ko: "검다 희다 말이 없다."
+  en:
+    lit: "black-is white-is words absent"
+    trans:
+      - "Whether it is black or white, there are no words."
+    means:
+      - "This means never speaking your own ideas or opinions."
+
+- ko: "검불 속에서 바늘 찾기."
+  en:
+    lit: "dry grass/leaves midst-in needle finding"
+    trans:
+      - "Finding a needle in dry grass."
+    means:
+      - >
+        This describes spending effort uselessly on a task that
+        cannot be done.
+
+- ko: "검은 것은 글자요, 흰 것은 종이다."
+  en:
+    lit: "black thing letter, white thing paper"
+    trans:
+      - "The black thing is a letter, the white thing is paper."
+    means:
+      - >
+        These words are used of an ignorant person who doesn't know
+        their letters at all.
+
+- ko: "겁 많은 개가 큰 소리로 짖는다."
+  en:
+    lit: "fear many(possessing) dog big sound-with bark"
+    trans:
+      - "A frightened dog barks loudly."
+    means:
+      - >
+        This says that a frightened person will speak loudly
+        and try to frighten others first.
+
+- ko: "겉 다르고 속 다르다."
+  en:
+    lit: "outside different-and inside different"
+    trans:
+      - "The outside and inside are different."
+    means:
+      - >
+        This indicates a person whose actions and words differ.
+
+- ko: "겉은 부처요 속은 짐승이다."
+  en:
+    lit: "outside Buddha, inside beast-is"
+    trans:
+      - "[They are] the Buddha on the outside, but a beast inside."
+    means:
+      - >
+        These words indicate a person whose inner heart is bad,
+        but acts like a good person on the outside.

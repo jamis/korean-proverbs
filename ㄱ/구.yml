@@ -1,0 +1,318 @@
+- ko: "구관이 명관이다."
+  en:
+    lit: "former-governor good-governor is"
+    trans:
+      - "The former governor is a good governor."
+    means:
+      - >
+        If someone is skilled at some task and does it well, don't
+        indiscriminately prefer only a new person for the job.
+    ie:
+      - "Better the devil you know than the devil you don't know."
+
+- ko: "구덩이 피하다가 우물에 빠진다."
+  en:
+    lit: "pit avoid-and-then well-in fall-into"
+    trans:
+      - "Avoid the pit, but fall into the well."
+    means:
+      - >
+        This says you avoid some small harm or difficulty, but then
+        meet up with something bigger.
+
+- ko: "구렁이 담 넘어가듯 한다."
+  en:
+    lit: "big-snake fence over-go-like do"
+    trans:
+      - "Like the snake going over a fence."
+    means:
+      - >
+        There's a task to be done, but you are obscure and stealthily
+        prevaricate, and secretly get by.
+      - >
+        You carefully trick someone without them knowing.
+
+- ko: "구르는 돌은 이끼가 안낀다."
+  en:
+    lit: "tumbling rock moss not-become-moss-covered"
+    trans:
+      - "A rolling stone gathers no moss."
+    means:
+      - >
+        A person who is always active has much to do, and receives
+        recognition.
+    ie:
+      - "A rolling stone gathers no moss."
+
+- ko: "구슬이 서 말이라도 꿰어야 보배."
+  en:
+    lit: "gem three mal(18-liters)-is-even-though put-on-in-order-to treasure"
+    trans:
+      - "Though you have a barrel of gems, they must be worn to be valuable."
+    means:
+      - >
+        No matter how good a thing is, it must be prepared in a useful way
+        in order for it to have value.
+
+- ko: "구하면 얻을 수 있다."
+  en:
+    lit: "seek-if obtain can"
+    trans:
+      - "If you seek, you can obtain."
+    means:
+      - >
+        If you do your best, you will ultimately come to obtain what you
+        seek. Thus, you should work diligently.
+    ie:
+      - "Seek, and ye shall find."
+
+- ko: "국 쏟고 허벅지 덴다."
+  en:
+    lit: "soup spill-and inner-thigh scald"
+    trans:
+      - "Spill soup and burn your leg."
+    means:
+      - >
+        Failing at one task, you then fail at a completely unrelated
+        and different task.
+
+- ko: "군밤에서 싹 나겠다."
+  en:
+    lit: "roasted-chestnut-from sprout grow-will"
+    trans:
+      - "A sprout will grow from a roasted chestnut."
+    means:
+      - >
+        Just as a sprout cannot grow from a roasted chestnut, this says
+        that something has no chance, no matter how long you wait.
+    ie:
+      - "When pigs fly."
+      - "When hell freezes over."
+
+- ko: "군불에 밥짓기."
+  dict:
+    "군불":
+      en: "a fire kindled to keep a room warm"
+  en:
+    lit: "room-fire-for boiling-rice"
+    trans:
+      - "Using the room-fire to boil rice."
+    means:
+      - >
+        While doing some task, it winds up accomplishing an unrelated
+        task as well.
+    ie:
+      - "Kill two birds with one stone."
+
+- ko: "굳은 땅에 물이 괸다."
+  en:
+    lit: "hardened dung-on water collects"
+    trans:
+      - "Water collects on hardened dung."
+    means:
+      - >
+        Just as water collects on the bottom of hardened dung,
+        a frugal person who does not spend needlessly can amass
+        wealth.
+
+- ko: "굶기를 밥먹듯 한다."
+  dict:
+    " 밥먹듯 한다": 
+      en: >
+        Literally, "like (as if) eating rice", but used idiomatically
+        to mean "apt to do", "have a tendency to do".
+  en:
+    lit: "starvation rice-eat-like do"
+    trans:
+      - "Apt to suffer."
+      - "As like to starve as eat."
+    means:
+      - >
+        "To starve" is frequently used to mean that life is tremendously
+        difficult. (Thus, perhaps the meaning is that someone's life is
+        particularly hard?)
+      - >
+        The idiom is a clever play on words, where "to starve" is often
+        used to mean "live a difficult life", and "like eating rice" is
+        used to mean "have a tendency to do", or "apt to do".
+
+- ko: "굶어 죽기는 정승하기 보다 어렵다."
+  en:
+    lit: "starve-and dying prime-minster-being compared-to difficult"
+    trans:
+      - "It is harder to die of starvation than to be prime minister."
+    means:
+      - >
+        No matter how difficult a thing is, you aren't dying
+        of starvation.
+
+- ko: "굴 속에서 하늘 보기."
+  en:
+    lit: "cave inside-from sky see"
+    trans:
+      - "To see the sky from inside a cave."
+    means:
+      - >
+        Looking at the sky through the mouth of a cave, you don't see
+        the wide expanse of heaven, but only a small portion of it. Thus,
+        this proverb says that you're not seeing the entire picture, but
+        just a piece of it.
+
+- ko: "꿀 있는 꽃이라야 벌이 찾이간다."
+  en:
+    lit: "nectar existing flower-is-only bee visit"
+    trans:
+      - "The bee visits only flowers with nectar."
+    means:
+      - "A person goes to where they can be most profited."
+
+- ko: "꿈보다 해몽이 좋다."
+  en:
+    lit: "dream-compared-to dream-interpretation good"
+    trans:
+      - "The interpretation is better than the dream."
+    means:
+      - >
+        This describes something that doesn't mean what it literally
+        represents, but instead means something better.
+      - >
+        Also spoken when a good or bad interpretation is up to you.
+
+- ko: "굿이나 보고 떡이나 먹어라."
+  en:
+    lit: "exercisism-or watch-and cake-or eat"
+    trans:
+      - "Watch the exorcism and eat some cake."
+    means:
+      - "Don't pointlessly interfere with someone else's task."
+    ie:
+      - "Sit back and enjoy the show (or ride)."
+
+- ko: "궁지에 몰린 쥐, 고양이를 문다."
+  en:
+    lit: "dilemma driven(to) mouse, cat bites"
+    trans:
+      - "The cornered mouse bites the cat."
+    means:
+      - >
+        While running from the cat, the mouse is driven to a dead-end,
+        and is made to attack as a matter of life or death. Thus, in
+        order to not injure one's self, one might forego escape and
+        pursue one's enemy.
+
+- ko: "궁하면 통한다."
+  en:
+    lit: "reduced-to-poverty-if be-expert"
+    trans:
+      - "Poverty makes you an expert."
+    means:
+      - >
+        If a person is reduced to poverty, their resourcefulness and
+        efforts become focused, and a means will appear to weather
+        their difficulties and find a way out.
+
+- ko: "권력은 십 년 못 간다."
+  en:
+    lit: "power ten years can't go"
+    trans:
+      - "Power won't last ten years."
+    means:
+      - >
+        As a rule, personal authority does not last very long,
+        so this says that when you have power, behave well.
+
+- ko: "꿩 대신 닭."
+  en:
+    lit: "pheasant substitute chicken"
+    trans:
+      - "Pheasant instead of chicken."
+    means:
+      - >
+        When something you need is not available, you can substitute
+        something similar.
+
+- ko: "꿩 먹고 알 먹고."
+  en:
+    lit: "pheasant eat-and egg eat-and"
+    trans:
+      - "Take the pheasant, and the egg, too."
+    means:
+      - "Do one task, and reap two rewards."
+    ie:
+      - "Kill two birds with one stone."
+
+- ko: "꿩이 콩밭 생각하듯 한다."
+  en:
+    lit: "pheasant bean-field think-about-like do"
+    trans:
+      - "Like a pheasant considering a bean field."
+    means:
+      - >
+        This suggests someone is mindlessly performing some task,
+        thinking only about eating.
+
+- ko: "꿩 잡는 것이 매다."
+  en:
+    lit: "pheasant catching thing (whip|hawk)-is"
+    trans:
+      - "A whip for catching pheasants."
+      - "A hawk for catching pheasants."
+    means:
+      - >
+        You use whatever method you must in order to accomplish some
+        goal.
+
+- ko: "귀가 보배다."
+  en:
+    lit: "ear treasure-is"
+    trans:
+      - "The ear is a treasure."
+    means:
+      - >
+        You might have little that you have learned by study, but much
+        that you've heard along the way, so this says that your ear
+        is like a valuable treasure.
+
+- ko: "귀는 크게 열고 입은 작게 열랬다."
+  en:
+    lit: "ear widely open-and mouth slightly open"
+    trans:
+      - "Open your ears wide, and your mouth little."
+    means:
+      - >
+        It is good to listen to other's words, judge between right
+        and wrong, and keep your own words respectful.
+
+- ko: "귀신도 빌면 듣는다."
+  en:
+    lit: "ghost-too apologize-if effective"
+    trans:
+      - "Even a ghost may apologize."
+    means:
+      - >
+        This says that you should magnanimously forgive those who seek
+        your forgiveness.
+
+- ko: "귀엽게 키운 자식에 효자 없다."
+  en:
+    lit: "sweetly raised offspring-in dutiful-son absent"
+    trans:
+      - "No dutiful son from spoiled children."
+    means:
+      - >
+        If you raise your children too sweetly, they become ill-mannered
+        and do not learn to respect their parents.
+    ie:
+      - "Spare the rod and spoil the child."
+
+- ko: "귀한 자식, 매 한 대 더 때리랬다."
+  en:
+    lit: "beloved offspring, cane one item more strike"
+    trans:
+      - "Give the favorite child an extra beating."
+    means:
+      - >
+        The more beloved a child is, the more strictly you must
+        teach and train them.
+    ie:
+      - "Spare the rod and spoil the child."

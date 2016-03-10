@@ -1,0 +1,12 @@
+- ko: "계란이나 달걀이나."
+  en:
+    lit: "egg-or egg-or"
+    trans:
+      - "This word for egg, or that word for egg."
+    means:
+      - >
+        This means that something differs only in name and is
+        otherwise exactly the same.
+    ie:
+      - "A rose by any other name would smell as sweet."
+      - "Tomayto, tomahto."

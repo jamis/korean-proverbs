@@ -1,0 +1,306 @@
+- ko: "개가 똥을 마다하겠다."
+  en:
+    lit: "dog dung hate-will"
+    trans:
+      - "The dog will hate dung."
+    means:
+      - >
+        The means a thing that one has always liked, and is
+        hardly possible that they’ll hate.
+
+- ko: "개가 웃겠다."
+  en:
+    lit: "dog laugh-will"
+    trans:
+      - "The dog will laugh."
+    means:
+      - "This means that something is as ridiculous as a dog laughing."
+
+- ko: "개같이 벌어서 정승같이 쓰랬다."
+  en:
+    lit: "dog-like earned-and-so prime-minister-like spend"
+    trans:
+      - "Earned like a dog, and spent like a prime minister."
+    means:
+      - >
+        This means that even though you do a humble task and
+        your earned money prospers, it is fine to spend it however
+        you want.
+
+- ko: "개 꼬리 삼년 두어도 황모 되지 않는다."
+  dict:
+    "황모":
+      en: "fur from a weasel's tail, a good ingredient for making pens"
+  en:
+    lit: "dog tail three-years keep-although weasel-tail-fur become not"
+    trans:
+      - >
+        Though you keep a dog's tail for three years, it won't
+        become weasel tail fur.
+    means:
+      - >
+        This means that no matter how long a naturally-bad thing sits,
+        it can never become good.
+
+- ko: "개구리가 올챙이 적 생걱 못한다."
+  en:
+    lit: "frog tadpole time think/remember can’t"
+    trans:
+      - "The frog can't remember when it was a tadpole."
+    means:
+      - >
+        This is said to mean that you can't remember a difficult time
+        that turned out well, and you pretend that all was great.
+
+- ko: "개구리도 움쳐야 뛴다."
+  en:
+    lit: "frog-even crouch-must-and jump"
+    trans:
+      - "Even the frog must crouch to jump."
+    means:
+      - >
+        This saying means that in order to do some task, you
+        must do the necessary preparation for the task.
+
+- ko: "개구리에게 헤엄 가르칠 걱정한다."
+  en:
+    lit: "frog-to swim teaching worry(about)"
+    trans:
+      - "Worry about teaching a frog to swim."
+    means:
+      - "This means that you have useless anxiety."
+
+- ko: "개 기르다 발뒤꿈치 물린다."
+  en:
+    lit: "dog raise (and) upper-rear-portion-of-the-heel bite"
+    trans:
+      - "Raise a dog and it bites your heel."
+    means:
+      - >
+        This means, if you have a mean person close to you and
+        take care of them, you will be hurt.
+
+- ko: "개 눈에는 똥만 보인다."
+  en:
+    lit: "dog eye-to dung-only visible"
+    trans:
+      - "A dog's eyes see only dung."
+    means:
+      - >
+        This means that if there is some thing you like, all
+        things appear like that.
+
+- ko: "개도 기르면 은혜를 안다."
+  en:
+    lit: "dog-even raise-if blessing know"
+    trans:
+      - "Even raising dogs, one knows blessings."
+    means:
+      - >
+        This means that a person who doesn’t recognize other's
+        blessings is inferior even to a beast like a dog.
+
+- ko: "개도 나갈 구멍을 보고 쫓으랬다."
+  en:
+    lit: "dog-too out-going hole look-and drives-away"
+    trans:
+      - "Even a dog guards its exit."
+    means:
+      - >
+        A dog, if it leaves its exit and chases away an intruder,
+        it will follow that person to a dead-end and scratch and
+        bite them. So, too, a person who has no way out in which
+        to subsist, they would prefer to cause me harm.
+
+- ko: "개도 닷새가 되면 주인을 안다."
+  en:
+    lit: "dog-too five-days become-if master knows"
+    trans:
+      - "Even a dog knows its master after five days."
+    means:
+      - >
+        These words say that a person who is not aware of
+        their blessings is even worse than a dog.
+
+- ko: "개도 먹을 때는 안 때린다."
+  en:
+    lit: "dog-too eating-when not beat"
+    trans:
+      - "You don’t beat even a dog when it’s eating."
+    means:
+      - "This says not to scold someone who is eating."
+
+- ko: "개도 미치면 주인을 문다."
+  en:
+    lit: "dog-too crazy-if master bite."
+    trans:
+      - "Even a dog will bite its master if it is crazy."
+    means:
+      - >
+        A person with a gentle heart will forget their
+        benefactor and hurt them.
+
+- ko: "개도 텃세한다."
+  en:
+    lit: "dog-too take-advantage-of-one's-position-to-act-high-handedly"
+    trans:
+      - "Even a dog will pridefully take advantage of its position."
+    means:
+      - >
+        These words say that a person who takes their place first,
+        will not give up their seat to someone coming late.
+
+- ko: "개똥도 약에 쓰려면 없다."
+  en:
+    lit: "dog-poop-too medicine-to use-try-if not-exists."
+    trans:
+      - "Even dog poop can't be found if you need it for medicine."
+    means:
+      - >
+        This saying means that you won’t be able to find even a
+        plentiful-but-worthless thing if it is ever actually needed.
+
+- ko: "개똥이 무서워서 피하나, 더러워서 피하지."
+  en:
+    lit: "dog poop scary-and-so avoid-but dirty-and-so avoid-(really)"
+    trans:
+      - "Whether dog poop is scary or dirty, best to avoid it."
+    means:
+      - >
+        This means that you must not fight with a poorly-behaved
+        person, but should instead avoid them.
+
+- ko: "개 뒤를 따라가면 뒷간으로 가게 된다."
+  en:
+    lit: "dog after follow-if bathroom-to go-become"
+    trans:
+      - "If you follow a dog, you’ll wind up at the bathroom."
+    means:
+      - >
+        This saying means that if you spend time close with a
+        poorly-behaved person, you’ll take after that person and
+        come to behave poorly yourself. (If I spend time with a
+        bad friend, I, too, become a bad person.)
+
+- ko: "개를 기르다 다리를 물렸다."
+  en:
+    lit: "dog raise-and-then leg bit"
+  trans:
+    - "You raised a dog and then it bit your leg."
+  means:
+    - "Words used when one hurts someone who helped them."
+
+- ko: "개미가 작아도 탑을 쌓는다."
+  en:
+    lit: "ant small-even-though tower erects"
+    trans:
+      - "Even though the ant is small, it builds a tower."
+    means:
+      - >
+        Just as an ant—though small—can erect a big tower, this
+        means that if you diligently concentrate even small things,
+        you can accomplish something great.
+
+- ko: "개미가 절구통 물고 간다."
+  en:
+    lit: "ant mortar bite-and go"
+    trans:
+      - "The ant carries a mortar in its teeth."
+    means:
+      - >
+        This means that many people focusing their strength can
+        do a great task, even though their strength may be small.
+
+- ko: "개미 구멍에 공든 탑이 무너진다."
+  en:
+    lit: "ant hole-to laborious tower collapse"
+    trans:
+      - "The great tower falls because of an ant hole."
+    means:
+      - >
+        A great task can be ruined by even a small mistake,
+        so these words warn us to be careful about even
+        small things.
+
+- ko: "개미 나는 곳에 범 난다."
+  en:
+    lit: "ant coming-out place-from tiger comes-out"
+    trans:
+      - "A tiger emerges from an anthill."
+    means:
+      - >
+        Though a thing be very small, do not think it unimportant.
+        If it later becomes big, it can ruin something very large.
+
+- ko: "개미 쳇바퀴 돌듯한다."
+  en:
+    lit: "ant rim-of-sieve go-round-like-do"
+    trans:
+      - "Like an ant going round a sieve."
+    means:
+      - "This means doing nothing but the exact same task every day."
+      - "It can also mean that, though you work at something, it does not prosper."
+
+- ko: "개 발에 주걱 편자다."
+  en:
+    lit: "dog paw-on tin horseshoe-is"
+    trans:
+      - "A tin horseshoe on a dog's paw."
+    means:
+      - >
+        A horseshoe made of tin is not appropriate for attaching
+        to a dog's paw. This means that one’s clothing or something
+        they carry is not appropriate for their status, and makes
+        them look ridiculous.
+
+- ko: "개밥에 도토리."
+  en:
+    lit: "dog-food-for acorn"
+    trans:
+      - "An acorn for dog food."
+    means:
+      - >
+        Dogs do not eat acorns, so just as dog food containing
+        acorns will be left behind, this saying falsely describes
+        an ostracized person who cannot be with other people.
+
+- ko: "개살구가 먼저 익는다."
+  en:
+    lit: "wild-apricot first ripens"
+    trans:
+      - "The wild apricot ripens first."
+    means:
+      - >
+        This means that bad things come out into the community
+        before good things.
+
+- ko: "개울 치고 가재 잡는다."
+  en:
+    lit: "brook clean-and crayfish catch"
+    trans:
+      - "Clean a brook and catch a crayfish."
+    means:
+      - >
+        This saying refers to thoroughly cleaning a brook and
+        catching a crayfish, and means that you do one kind of task
+        and gain two different benefits.
+
+- ko: "개장수도 올가미가 있어야 한다."
+  en:
+    lit: "dog-merchant-even trap exists-must"
+    trans:
+      - "Even the dog merchant has traps."
+    means:
+      - >
+        These words say, whatever task you try to do, the
+        preparation it needs is necessary.
+
+- ko: "개천에서 용난다."
+  en:
+    lit: "creek-from dragon comes-out"
+    trans:
+      - "A dragon comes out of a creek."
+    means:
+      - >
+        These words mean a magnificent person can come out of
+        even an unworthy house.

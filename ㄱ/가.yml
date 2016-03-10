@@ -1,0 +1,698 @@
+- ko: "가까운 길 버리고 먼 길로 간다."
+  en:
+    lit: "nearby path throw-away-and far path-via go"
+    trans:
+      - "Leave the short path and take the long one."
+    means:
+      - >
+        Even though a simple and fast method exists,
+        you foolishly do a task the hard way.
+
+- ko: "가까운 이웃이 먼 일가보다 낫다."
+  en:
+    lit: "nearby neighbor far relative-compared-to better"
+    trans:
+      - "A neighbor close-by is better than a relative far-away."
+    means:
+      - >
+        Helpful and friendly neighbors are more friendly and kind
+        than relatives living far away.
+
+- ko: "가까운 데를 가도 점심밥을 싸 가지고 가랬다."
+  en:
+    lit: "nearby place go-even-though lunch-food pack-and carry-and go-said"
+    trans:
+      - "Even traveling close-by, they say you should pack a lunch."
+    means:
+      - >
+        Even when performing a small task, you must make
+        preparations directly.
+
+- ko: "가까운 제 눈썹 못 본다."
+  en:
+    lit: "nearby own eyebrows cannot see"
+    trans:
+      - "He can't see his own eyebrows."
+    means:
+      - >
+        This describes someone who is able to do a different task,
+        but cannot do their own job.
+
+- ko: "까가운 사람이 원수된다."
+  en:
+    lit: "nearby person enemy becomes"
+    trans:
+      - "Those close to you become your enemy."
+    means:
+      - >
+        If someone not very close does something sad, it’s not
+        particularly sad. But if someone close to you makes you
+        sad, it is easy for you to get angry and become their enemy.
+
+- ko: "가갸 뒷다리도 모르다."
+  en:
+    lit: "ka-gya hind-legs-even doesn't know"
+    trans:
+      - "He doesn't know ga-gya (가갸) from hind legs."
+    means:
+      - >
+        Considering just the letters, this saying describes a very
+        ignorant person who doesn’t know the letters ‘ㅏㅑ’ and thinks
+        they look like legs.
+
+- ko: "가난도 스승이다."
+  en:
+    lit: "poverty-too teacher is"
+    trans:
+      - "Even poverty is a teacher."
+    means:
+      - >
+        If you’re poor, you work diligently to live well. Thus, in
+        the midst of hard work you learn many things.
+
+- ko: "가난뱅이 조상 안 둔 부자 없고, 부자 조상 안 둔 가난뱅이 없다."
+  en:
+    lit: >
+      poor-person ancestor not put rich-person not-exist-and
+      rich-person ancestor not put poor-person not-exist
+    trans:
+      - >
+        There is no rich man without a poor ancestor, and there is
+        no poor man without a rich ancestor.
+    means:
+      - >
+        Just as there are no families that have lived well for
+        generations, and no families that have lived poorly for
+        generations, poor people sometimes become rich, and rich
+        people sometimes become poor.
+
+- ko: "가난이 죄다."
+  en:
+    lit: "poverty holds"
+    trans:
+      - "Poverty holds you."
+    means:
+      - >
+        Because you are poor, you cannot speak up,
+        and you live depressed.
+
+- ko: "가난한 집에서 효자 난다."
+  en:
+    lit: "poor house-from dutiful-son comes-out"
+    trans:
+      - "A dutiful son comes from a poor home."
+    means:
+      - >
+        This means that, because children raised in a poor home
+        acknowledge the difficult life of their parents, they
+        will be dutiful to their parents.
+
+- ko: "가난한 집에 자식 많다."
+  en:
+    lit: "poor house-in offspring many"
+    trans:
+      - "A poor house has many children."
+    means:
+      - >
+        This means that, although there is little to eat in a poor
+        home, there are still many children.
+
+- ko: "가난한 집 제사 돌아오듯 한다."
+  en:
+    lit: "poor priest return-seems does"
+    trans:
+      - "A poor priest always seems to come back."
+    means:
+      - "This means that difficulties always reoccur."
+
+- ko: "가는 날이 장날."
+  en:
+    lit: "going day market-day"
+    trans:
+      - "The day you go is market day."
+    means:
+      - "Without giving it any thought, things turn out well."
+      - "You want to do something but everything is closed."
+
+- ko: "가는 떡이 커야 오는 떡도 크다."
+  en:
+    lit: "going cake big-must coming cake-also big"
+    trans:
+      - "If the outgoing cake is big, the incoming cake is big, too."
+      - "Give a big cake, get a big cake."
+    means:
+      - "If I give well to others, others will also give well to me."
+
+- ko: "가는 말이 고와야 오는 말이 곱다."
+  en:
+    lit: "going words kind-must coming words kind"
+    trans:
+      - "If the outgoing words are kind, the incoming words are kind."
+      - "Give kind words, get kind words."
+      - "Kind words out, kind words in."
+    means:
+      - >
+        If I first say kind things to others, others will come
+        to say kind things to me.
+
+- ko: "가는 방망이 오는 홍두깨."
+  dict:
+    "홍두깨":
+      en: "a large wooden roller for smoothing clothes"
+  en:
+    lit: "going cudgel coming clothes-rolling-pin"
+    trans:
+      - "Outgoing cudgel, incoming rolling pin."
+      - "Strike with a cudgel, stricken by a club."
+    means:
+      - >
+        If I hit others with a cudgel, they will hit me with the
+        even-larger rolling pin, which is to say that if I treat
+        others injuriously, others will come to do me even greater
+        harm.
+
+- ko: "가는 손님 뒤꼭지가 예쁘다."
+  en:
+    lit: "going guest back-side beautiful"
+    trans:
+      - "The back of a departing guest is beautiful."
+    means:
+      - >
+        This means that if a guest at a poor home leaves early,
+        the head of the house will think gratefully of the guest.
+
+- ko: "가늘게 흐르는 개울물도 바다로 간다."
+  en:
+    lit: "slenderly flowing stream-water-also ocean-to go"
+    trans:
+      - "Even the waters of a meager stream go to the ocean."
+    means:
+      - >
+        This means that just as the waters of a small stream, if they
+        flow without resting, will arrive at the ocean, so can we
+        succeed if we strive diligently.
+
+- ko: "가다 말면 안 가느니만 못하다."
+  en:
+    lit: "go-then not-if not going-only cannot"
+    trans:
+      - "If you go and then stop, you only fail if you don’t go."
+    means:
+      - >
+        If you stop in the middle of some task, it is
+        preferable/better to not start at the beginning.
+
+- ko: "가랑비에 옷 젖는 줄 모른다."
+  en:
+    lit: "light-rain-at clothes soaking method doesn't know"
+    trans:
+      - "A light rain doesn’t know how to soak clothes."
+    means:
+      - >
+        Because, if small things repeatedly pile up, they
+        become large things, we shouldn’t think poorly of
+        small things.
+
+- ko: "가랑잎에 꿩 새끼 숨듯한다."
+  en:
+    lit: "dead-leaves-in pheasant chick hide-like-does"
+    trans:
+      - "Like a pheasant chick hiding in dead leaves."
+    means:
+      - "Refers to something that is very clever."
+
+- ko: "가랑잎에 불붙듯."
+  en:
+    lit: "dead-leaves-to catch-fire-like"
+    trans:
+      - "Like dead leaves catching fire."
+    means:
+      - >
+        This refers to a mean-spirited and rash person who flares
+        up like dry leaves when a fire is kindled.
+
+- ko: "가랑잎이 ‘바스락’하니까 솔잎도 ‘바스락’한다."
+  en:
+    lit: "dead-leaves 'rustle' say-and-so pine-needles-too 'rustle' say"
+    trans:
+      - >
+        The dry leaves go ‘rustle’, so the pine needles go
+        ‘rustle’, too.
+    means:
+      - >
+        This refers to merely mimicking others, without
+        having any personal convictions.
+      - >
+        Also means doing a thing because others are doing it,
+        even if it goes against one’s own judgement.
+
+- ko: "가랑잎이 솔잎더러 바스락거린다고 한다."
+  en:
+    lit: "dead-leaves pine-needles-to rustle-say do"
+    trans:
+      - "The dry leaves say the pine needles are rustling."
+    means:
+      - >
+        This talks about foolishly scolding others for their
+        small errors, while not realizing one’s own large mistakes.
+
+- ko: "가려운 데를 긁어 주듯한다."
+  en:
+    lit: "itchy time scratch-and give-like do"
+    trans:
+      - "It's like scratching when someone itches."
+    means:
+      - >
+        Be aware beforehand of someone’s difficult circumstances
+        and give them aid.
+
+- ko: "가루는 칠수록 고와지고, 말은 할수록 거칠어 진다."
+  en:
+    lit: >
+      flour sift-the-more fine-becomes-and, words do-the-more
+      harsh-becomes.
+    trans:
+      - >
+        The more flour is sifted, the finer it becomes.
+        The more a word is spoken, the harsher it becomes.
+    means:
+      - >
+        The more rice flour is sifted through a sieve, the finer
+        it becomes, but the more words do, the more bad words
+        multiply, so this means you should not say words that do
+        not need to be said.
+
+- ko: "가마 타고 시집가기는 틀렸다."
+  en:
+    lit: "palanquin ride-and take-husband gone-awry-did"
+    trans:
+      - "She rode a palanquin and her wedding went awry."
+    means:
+      - >
+        These words refer to observing all formalities and
+        doing a thing properly, and it goes wrong.
+
+- ko: "가문 덕에 대접받는다."
+  en:
+    lit: "family virtue-for bowl recieve"
+    trans:
+      - "Receive a bowl of soup for your family's good name."
+    means:
+      - >
+        This means that even though I may not necessarily be very
+        good myself, I receive a bowl of soup due to the fortune
+        of having been born into a good family.
+
+- ko: "까마귀 고기를 먹었나?"
+  en:
+    lit: "crow meat ate?"
+    trans:
+      - "Did you eat crow meat?"
+    means:
+      - >
+        These words insinuate that someone is good at forgetting
+        all kinds of things. (This comes from the crow being a very
+        forgetful bird.)
+
+- ko: "까마귀 날자 배 덜어진다."
+  en:
+    lit: "crow flies-as-soon-as pear falls"
+    trans:
+      - "As soon as the crow flies, the pear falls."
+    means:
+      - >
+        You’re working on an unrelated routine task when
+        a coincidentally similar event occurs, and you start
+        to doubt the apparent connection between the two.
+
+- ko: "까마귀도 제 소리는 아름답고 한다."
+  en:
+    lit: "crow-even own sound beautiful-and does"
+    trans:
+      - "Even the crow says its own voice is beautiful."
+    means:
+      - >
+        This means that everyone thinks their own things are
+        good.
+
+- ko: "가만히 있으면 무식이나 면한다."
+  en:
+    lit: "be-silent-and exist-if ignorance-or save-from"
+    trans:
+      - "If silent, be saved from looking ignorant."
+    means:
+      - >
+        If you make a fuss about knowing a thing even when
+        you really don’t, you reveal your ignorance, so this
+        says to be silent if you don’t know something.
+
+- ko: "까불기는 촉새 같다."
+  en:
+    lit: "frivolous-behavior black-faced bunting is-like"
+    trans:
+      - "Frivolity is like a black-faced bunting."
+    means:
+      - >
+        This describes a person who is frivolous and
+        flippant like a black-faced bunting.
+
+- ko: "가을 바람에 낙엽지듯한다."
+  en:
+    lit: "autumn wind-to fallen-leaves-falling-like do"
+    trans:
+      - "Like leaves falling in the autumn wind."
+    means:
+      - >
+        These words indicate the failing of several different
+        tasks one at a time.
+
+- ko: "가을 부채는 시세가 없다."
+  en:
+    lit: "autumn debt market-price not-exists"
+    trans:
+      - "Autumn's debt has no market value."
+    means:
+      - "When you have to pack, old things are worthless."
+
+- ko: "가재 걸음."
+  en:
+    lit: "crayfish trapping"
+    trans:
+      - "Trapping crayfish."
+    means:
+      - >
+        Words used when doing a very slow-paced task, or
+        when your achievements are particularly worthless.
+
+- ko: "가재 게 편이다."
+  en:
+    lit: "crayfish crab side is"
+    trans:
+      - "The crayfish is on the crab's side."
+    means:
+      - >
+        This means that people tend to take the side of others
+        in similar circumstances or situations.
+    ie:
+      - "Birds of a feather flock together."
+
+- ko: "가재 뒷걸음치듯 한다."
+  en:
+    lit: "crayfish backward-walk-seem does"
+    trans:
+      - "Like the crayfish walking backwards."
+    means:
+      - >
+        Just as the crayfish seems to walk backwards, this means
+        that you gently back away from some task.
+
+- ko: "가져다 주어도 미운 놈 있고, 가져가도 고운 놈 있다."
+  en:
+    lit: >
+      take-and give-even-though spiteful guy exists-and,
+      take-away-even-though kind guy exists.
+    trans:
+      - >
+        Though you bring a gift, some will be spiteful.
+        Though you take it away, some will be kind.
+    means:
+      - >
+        This means that, although some people profit, they
+        will be spiteful, and while others might get hurt,
+        those people will be kind.
+
+- ko: "가죽이 있어야 털이 난다."
+  en:
+    lit: "skin exists-must hair grows"
+    trans:
+      - "You must have skin to grow hair."
+    means:
+      - >
+        This means that all tasks must have a foundation in
+        order to be successful.
+
+- ko: "가지 많은 나무에 바람 잘 날 없다."
+  en:
+    lit: "branch many tree-to wind sleep day not-exists"
+    trans:
+      - "The wind never rests in a tree with many branches."
+    means:
+      - >
+        The means that parents with many offspring, or order to
+        raise them well, have no carefree days.
+
+- ko: "가진 놈이 더 무섭다."
+  en:
+    lit: "posessing guy more afraid"
+    trans:
+      - "Those who have, fear more."
+    means:
+      - >
+        This means a a rich man with lots of money will be more
+        miserly than a poor person.
+
+- ko: "간다 간다 하면서 아이 셋 낳고 간다."
+  en:
+    lit: "go go saying-as child three bear-and go"
+    trans:
+      - "Have three children while saying ‘go, go’."
+    means:
+      - >
+        This saying means to drag out a task while telling
+        others to hurry.
+
+- ko: "간에 붙었다 쓸개에 붙었다 한다."
+  en:
+    lit: "liver-to stick gallbladder-to stick say"
+    trans:
+      - "Says he'll stick to the liver and stick to the gallbladder."
+    means:
+      - >
+        This refers to throwing away honor and integrity, when
+        sucking up to someone is beneficial to you.
+
+- ko: "간에 기별도 안 간다."
+  en:
+    lit: "liver-to news-even not goes"
+    trans:
+      - "Word doesn’t even reach the liver."
+    means:
+      - "Means that the little food you’ve eaten does not fill you up."
+
+- ko: "갈수록 태산이다."
+  en:
+    lit: "go-as great mountain is"
+    trans:
+      - "The further you go, the bigger the mountains."
+      - "As you go, the mountains grow."
+    means:
+      - >
+        Means that a task gets harder the more you do it,
+        just like going over one mountain and then seeing a bigger one.
+
+- ko: "갈치가 갈치 꼬리 문다."
+  en:
+    lit: "cutlass-fish cutlass-fish tail nibbles"
+    trans:
+      - "One fish nibbles another’s tail."
+    means:
+      - >
+        This means that people close together will injure one another
+        by competing and plotting.
+
+- ko: "감기 고뿔도 남 주기는 섭섭하다."
+  en:
+    lit: "a-cold a-cold-even others giving sad/regret"
+    trans:
+      - "He'd begrudge even giving someone a cold."
+    means:
+      - >
+        Refers to someone so stingy that it makes them sad even
+        giving someone so much as a disease (like a cold).
+
+- ko: "감나무 밑에 누워서 홍시 떨어지기 바란다."
+  en:
+    lit: >
+      persimmon-tree bottom-at lie-down-and-so
+      ripe-persimmon falling hope
+    trans:
+      - "Lie down by a persimmon tree and hope a ripe persimmon falls."
+    means:
+      - >
+        Means that you hope something will turn out well,
+        though you don’t do any work.
+
+- ko: "값도 모르고 비싸다고 한다."
+  en:
+    lit: "value-even do-not-know-and expensive say"
+    trans:
+      - "Say it’s expensive without knowing its worth."
+    means:
+      - >
+        Means that you meddle in other's work,
+        without knowing it well at all.
+
+- ko: "갓 쓰고 자전거 탄다."
+  en:
+    lit: "traditional-hat wear-and bicycle ride"
+    trans:
+      - "Wear an old-fashioned hat and ride a bicycle."
+    means:
+      - >
+        Since the traditional hat is old-fashioned, and the
+        bicycle is modern, these words are used to describe
+        something inappropriate and awkward.
+
+- ko: "강 건너 불보듯 한다."
+  en:
+    lit: "river opposite-side-of fire appears-as does"
+    trans:
+      - "Like seeing fire across the river."
+    means:
+      - >
+        Don’t be anxious about circumstances that have nothing
+        to do with you, when you’ve got your own problems.
+
+- ko: "강물도 쓰면 준다."
+  en:
+    lit: "river-water-even use-if decrease"
+    trans:
+      - "Even river water decreases if used."
+    means:
+      - >
+        By saying that no matter how plentiful a thing is, if used
+        wastefully it will decrease, these words say we should not
+        be wasteful but should use things sparingly.
+
+- ko: "강아지가 쇠뼈다귀 물고 다니듯 한다."
+  en:
+    lit: "puppy beef-bone bite-and go(around)-like do"
+    trans:
+      - "Be like a puppy running around gnawing a bone."
+    means:
+      - >
+        This says you worry uselessly about something you can’t
+        even do anything about.
+
+- ko: "강원도 간 포수."
+  en:
+    li: "Gang-weon-province gone hunter"
+    trans:
+      - "The hunter has gone to Gang-weon province."
+    means:
+      - >
+        Words meaning someone who goes out to do something and doesn’t
+        return for a long time. (In the old days, hunters would go to
+        Gang-weon province where the mountains were rugged and there
+        were many tigers, and would be prevented from returning home
+        due to tigers attacking and other things.)
+
+- ko: "강 태공이 세월 낚듯 한다."
+  dict:
+    "강 태공":
+      en: >
+        Chinese ambassador who became King Mun’s teacher and
+        overthrew the Yin nation, and ruled over the whole country
+  en:
+    lit: "Gang prince times fishing-like is/does"
+    trans:
+      - "Like Prince Gang spending time fishing."
+    means:
+      - >
+        Means it looks like you have nothing to do and are just idling
+        away the time, but you have great aspirations and are just
+        biding your time. (In old days, Prince Gang had big aspirations
+        and bided his time, and so in conversation you say that you are
+        acting like a fisherman and passing the time.)
+
+- ko: "갖바치 내일 모레 하듯 한다."
+  dict:
+    "갖바치":
+      en: "a person who made leather shoes in olden days"
+  en:
+    lit: "shoemaker tomorrow day-after-tomorrow do-like say"
+    trans:
+      - "Be like the shoemaker saying tomorrow or the day after."
+    means:
+      - >
+        This means someone does not keep the date they promised,
+        but postpones with "tomorrow, or the day after". (In old days,
+        the shoemaker would constantly postpone the date he'd promised
+        to have the shoes ready for delivery, which is where this
+        phrase comes from.)
+
+- ko: "같은 값이면 다홍치마."
+  en:
+    lit: "same value-if red-skirt"
+    trans:
+      - "The red skirt, if it’s the same price."
+    means:
+      - >
+        This means that if the price is the same, choose
+        the thing you like.
+
+- ko: "같은 떡도 남의 것이 커보인다."
+  en:
+    lit: "same rice-cake-though other’s thing bigger-looks."
+    trans:
+      - "Though they're the same, the other's cake looks bigger."
+    means:
+      - >
+        This means that even though the quality is the same, the
+        thing someone else has looks better.
+
+- ko: "같은 말이라도 '아' 다르고 '어' 다르다."
+  en:
+    lit: >
+      same word is-even-though '아' is
+      different-and '어' is different
+    trans:
+      - "Though it’s the same word, ‘아’ and ‘어’ are different."
+    means:
+      - >
+        Even though a word expresses the same meaning, it may be
+        heard pleasantly, or unpleasantly, so if the other has
+        already been said, hear it pleasantly.
+
+- ko: "같은 배를 탄 사람끼리는 서로 돕는다."
+  en:
+    lit: "same boat riding people-group together help"
+    trans:
+      - "People riding the same boat help each other."
+    means:
+      - >
+        This means that a group of people who have the same task or
+        purpose will help each other.
+    ie:
+      - "We're all in the same boat."
+
+- ko: "같은 병을 앓는 사람끼리는 서로 돕는다."
+  en:
+    lit: "same disease afflicted people-group together help"
+    trans:
+      - "People sick with the same illness help each other."
+    means:
+      - >
+        This means that a group of people experiencing the same
+        difficult event will sympathize with and help each other.
+
+- ko: "같은 업자끼리는 원수가 뒨다."
+  en:
+    lit: "same merchant-group enemy becomes"
+    trans:
+      - "A group of merchants become enemies."
+    means:
+      - >
+        This means that it is easy for people with the same
+        occupation to quarrel and become enemies if they try to
+        compete together.
+
+- ko: "같이 우물 파고 혼자 먹는다."
+  en:
+    lit: "together well dig-and alone-eat"
+    trans:
+      - "Dig a well together and eat alone."
+    means:
+      - >
+        This refers to very greedy people who take possession of a
+        thing that was accomplished by several people working together.
