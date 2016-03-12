@@ -79,3 +79,14 @@
       - >
         No matter how urgent a task is, it must be done in the proper
         order.
+
+- ko: "급하다고 바늘 허리에 실 매어 쓸까?"
+  en:
+    lit: "urgent say-and needle waist-at thread tie-and use-shall?"
+    trans:
+      - "You say it is urgent, but can you tie the needle to your waist and still use it?"
+      - "Urgent or no, you cannot bind the needle and still use it."
+    means:
+      - >
+        A task as a proper order, but you say it is urgent and so
+        ignore the formalities, and it doesn't work out.
