@@ -90,3 +90,13 @@
       - >
         A task as a proper order, but you say it is urgent and so
         ignore the formalities, and it doesn't work out.
+
+- ko: "급히 먹는 밥에 체한다."
+  en:
+    lit: "urgently eating rice-at cause-indigestion"
+    trans:
+      - "Hastily eaten rice gives indigestion."
+    means:
+      - >
+        A task done hurriedly will tend to spoil, so this is taken to
+        mean that you should not hurry something.
