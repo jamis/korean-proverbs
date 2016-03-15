@@ -9,3 +9,13 @@
         No matter how talented you may be, there is always someone
         else more talented. Thus, consider your talents small and
         do not be arrogant.
+
+- ko: "기둥을 치면 대들보가 울린다."
+  en:
+    lit: "pillar hit-if main-crossbeam rings"
+    trans:
+      - "Strike the pillar and the crossbeam rings."
+    means:
+      - >
+        This describes speaking indirectly in order to hear
+        and learn something.
