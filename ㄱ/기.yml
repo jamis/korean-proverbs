@@ -19,3 +19,24 @@
       - >
         This describes speaking indirectly in order to hear
         and learn something.
+
+- ko: "기른 개에게 발뒤꿈치 물린다."
+  en:
+    lit: "raised dog-by heel bitten"
+    trans:
+      - "To be bitten by a dog you raised."
+    means:
+      - >
+        Used when a person that you helped injures you.
+
+- ko: "기와 한 장 아끼다가 대들보 썩힌다."
+  en:
+    lit: "tile one unit spare-and crossbeam rots"
+    trans:
+      - "Hold back one tile and the crossbeam rots."
+    means:
+      - >
+        Try to spare some small thing, and live to see some great
+        damage come to pass.
+    eg:
+      - "Penny wise, pound foolish."
