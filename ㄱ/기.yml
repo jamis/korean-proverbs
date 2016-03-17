@@ -40,3 +40,13 @@
         damage come to pass.
     eg:
       - "Penny wise, pound foolish."
+
+- ko: "기운이 세다고 황소가 왕 노릇할까?"
+  en:
+    lit: "strength be-mighty-say-and bull king pretend-to-be-shall?"
+    trans:
+      - "Shall a bull play king, though you tell it to be mighty?"
+    means:
+      - >
+        Strength alone does not make one a leader. They must have
+        knowledge and wisdom, too.
