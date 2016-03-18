@@ -50,3 +50,25 @@
       - >
         Strength alone does not make one a leader. They must have
         knowledge and wisdom, too.
+
+- ko: "기지도 못하는 게 날려한다."
+  en:
+    lit: "crawl-even cannot(ing) crab flies"
+    trans:
+      - "The crab flies which cannot even crawl."
+    means:
+      - >
+        Words used to mock someone who--though incapable--nevertheless
+        puts their hand to a task.
+
+- ko: "길고 짧은 것은 대 보아야 안다."
+  en:
+    lit: "long-and short thing compare-must know"
+    trans:
+      - "Long and short must be compared to be known."
+    means:
+      - >
+        To know a thing clearly, you must actually compare, and not
+        simply take someone's word for it.
+    eg:
+      - "Looks can be decieving."
