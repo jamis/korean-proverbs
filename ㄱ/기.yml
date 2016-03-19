@@ -72,3 +72,13 @@
         simply take someone's word for it.
     eg:
       - "Looks can be decieving."
+
+- ko: "길을 무서워하면 범을 마난다."
+  en:
+    lit: "path fearful-if tiger meet."
+    trans:
+      - "The fearful path meets the tiger."
+    means:
+      - >
+        If you are afraid of something, you will encounter something
+        even more fearful.
