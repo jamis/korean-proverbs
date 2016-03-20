@@ -82,3 +82,24 @@
       - >
         If you are afraid of something, you will encounter something
         even more fearful.
+
+- ko: "길이 아니면 가지를 말고, 말이 아니면 듣지를 말라."
+  en:
+    lit: "path not-if go do-not-and, word not-if hear do-not."
+    trans:
+      - >
+        If it's not the path, don't follow it. If it's not the
+        word, don't heed it.
+    means:
+      - "Never stray from that which is right and true."
+
+- ko: "깊고 얕은 것은 물을 건너봐야 안다."
+  en:
+    lit: "deep-and shallow thing water cross-try-must-to know."
+    trans:
+      - "Deep or shallow, the water must be crossed to know which."
+    means:
+      - >
+        Just as you must cross water to know whether it is deep or
+        shallow, you must try to make friends with someone in order
+        to know their inner heart.
