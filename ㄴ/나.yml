@@ -30,3 +30,15 @@
       - >
         Because a traveler wanders and visits different places, they
         do a lot of listening.
+
+- ko: "나 먹자니 싫고 남 주자니 아깝다."
+  en:
+    lit: "I eat-let's(say)-and-then disagreeable-and other give-let's(say)-and-then regretful"
+    trans:
+      - "Hates to say 'I'll eat it', and is reluctant to say 'I'll give it to someone else.'"
+      - "Won't eat it, and won't share it."
+    means:
+      - >
+        This describes someone who is so stingy, and gives so
+        grudgingly, that they would regret giving away something
+        they despise.
