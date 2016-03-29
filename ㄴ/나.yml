@@ -86,3 +86,13 @@
       - >
         If a bad person draws near, even you might become bad, and
         the nice people in the area go far away.
+
+- ko: "나이 젊은 딸이 먼저 시집간다."
+  en:
+    lit: "age young daughter first married"
+    trans:
+      - "The young daughter marries first."
+    means:
+      - >
+        Just as it is advantageous for a young person to marry, in
+        society too a young person will be employed first.
