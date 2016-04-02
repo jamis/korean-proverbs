@@ -127,3 +127,15 @@
       - >
         Even if your strength is small, with steady effort you can
         accomplish a large task.
+
+- ko: "날 잡은 놈이 자루 잡은 놈을 당하랴?"
+  en:
+    lit: "blade seized guy hilt siezed guy be-match-for-shall?"
+    trans:
+      - "Is the guy who siezed the blade a match for the guy who siezed the hilt?"
+    means:
+      - >
+        Just as a person who has grabbed a knife by the blade cannot be
+        a match for a person who has siezed it by the hilt, a person in
+        an unfavorable situation will have a difficult time prevailing
+        over a person in a favorable situation.
