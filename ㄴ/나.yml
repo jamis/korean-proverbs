@@ -194,3 +194,12 @@
       - >
         Though you can see other's mistakes, it is difficult to
         know your own.
+
+- ko: "남의 말 내가 하면, 남도 내 말 한다."
+  en:
+    lit: "other's word I do-if, other-too my word do"
+    trans:
+      - "If I say another's words, they too will say my words."
+    means:
+      - >
+        If I see another's flaws, they too will see my flaws.
