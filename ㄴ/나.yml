@@ -203,3 +203,13 @@
     means:
       - >
         If I see another's flaws, they too will see my flaws.
+
+- ko: "남의 머리는 깎아도 제 머리는 못 깎는다."
+  en:
+    lit: "other's hair cut-though my hair cannot cut"
+    trans:
+      - "Though I cut another's hair, I cannot cut my own."
+    means:
+      - >
+        You can help someone else, but your own task cannot be done
+        just as you would like.
