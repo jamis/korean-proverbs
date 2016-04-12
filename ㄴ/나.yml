@@ -234,3 +234,13 @@
       - >
         This says that you must leave home and suffer hardships in
         order to know gratitude for your parents.
+
+- ko: "남의 밥에 든 콩이 더 커 보인다."
+  en:
+    lit: "other's rice-in contained bean more large appears"
+    trans:
+      - "The bean in another's rice looks larger."
+    means:
+      - >
+        A greedy person likes what someone else has, and wants to
+        have it.
