@@ -284,3 +284,13 @@
     means:
       - >
         This describes helping with another's task as if it were your own.
+
+- ko: "남의 자식 흉보지 말고 내 자식 가르치랬다."
+  en:
+    lit: "other's offspring disparage-do-not-and my offspring teach"
+    trans:
+      - "Don't disparage another's children, and teach your own."
+    means:
+      - >
+        Before you speak ill of someone else's children, teach your own
+        children well.
