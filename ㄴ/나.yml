@@ -324,3 +324,14 @@
       - >
         As a result of someone else's mistake, you are falsely accused and
         hurt.
+
+- ko: "남의 집 금송아지가 내 집 송아지만 못하다."
+  en:
+    lit: "other's house golden-calf my house calf-only inferior"
+    trans:
+      - "Another's golden calf is inferior to my calf."
+    means:
+      - >
+        No matter how good another's things are said to be, they have
+        no use to me, and though my things are small, because they are
+        mine they have substance.
