@@ -356,3 +356,15 @@
         This says someone is very ignorant, as if they had laid down
         a sickle and didn't know what the letter 'ㄱ' looks like,
         even though it looks exactly like a sickle.
+
+- ko: "낮 말은 새가 듣고 밤 말은 쥐가 듣는다."
+  en:
+    lit: "day words bird hears-and night words mouse hears"
+    trans:
+      - >
+        The bird hears conversation by day, and the mouse hears
+        talk by night.
+    means:
+      - >
+        Nothing can be secret from the entire world, so be careful with
+        your words.
