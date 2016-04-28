@@ -1,0 +1,10 @@
+- ko: "내가 할 말을 사돈이 한다."
+  en:
+    lit: "I will-say words in-law says"
+    trans:
+      - "My in-law says what I mean to say."
+    means:
+      - >
+        Someone else says first what you, yourself, intended to say.
+    eg:
+      - "What he said."
