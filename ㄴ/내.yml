@@ -54,3 +54,13 @@
         shortcomings.
     eg:
       - "Wash your dirty laundry in public."
+
+- ko: "내 배부르면 종의 밥 짓지 말라고 한다."
+  en:
+    lit: "my stomach-full-if servant's rice boil not-saying"
+    trans:
+      - "Say not to boil the servant's rice if my stomach is full."
+    means:
+      - >
+        This refers to not thinking of other's difficult circumstances
+        when you, yourself, are well off.
