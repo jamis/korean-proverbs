@@ -64,3 +64,13 @@
       - >
         This refers to not thinking of other's difficult circumstances
         when you, yourself, are well off.
+
+- ko: "내일은 서쪽에세 해가 뜨겠다."
+  en:
+    lit: "tomorrow west-in sun rise-will"
+    trans:
+      - "Tomorrow the sun will rise in the west."
+    means:
+      - >
+        Used when a troublemaker suddenly does something
+        nice, to express that they've done something unexpectedly good.
