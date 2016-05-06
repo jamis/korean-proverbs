@@ -82,3 +82,13 @@
       - "He'd even blow on cold water before eating it."
     means:
       - "Describes the actions of someone who is far too cautious."
+
+- ko: "냉수 먹고 속 차려라."
+  en:
+    lit: "cold-water eat-and insides prepare"
+    trans:
+      - "Drink cold water and get ready."
+    means:
+      - >
+        This says that you should prepare yourself by drinking
+        chilled water, to cool your stomach.
