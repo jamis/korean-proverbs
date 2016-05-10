@@ -16,6 +16,16 @@
     means:
       - "Let a greater greed move you, to your loss."
 
+- ko: "노루 잡는 사람에게 토끼가 보인나?"
+  en:
+    lit: "deer catching person-to rabbit appear?"
+    trans:
+      - "Will a rabbit appear to a person hunting a deer?"
+    means:
+      - >
+        To someone with big plans, small tasks are not
+        significant.
+
 - ko: ""
   en:
     lit: ""
