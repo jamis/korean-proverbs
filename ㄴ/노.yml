@@ -21,10 +21,21 @@
     lit: "deer catching person-to rabbit appear?"
     trans:
       - "Will a rabbit appear to a person hunting a deer?"
+      - "Does a deer hunter notice a rabbit?"
     means:
       - >
         To someone with big plans, small tasks are not
         significant.
+
+- ko: "노처녀더러 시집가랴 한다."
+  en:
+    lit: "old-maid-to married-go-ask do"
+    trans:
+      - "Asking an old maid if she will marry."
+    means:
+      - >
+        Refers to needlessly asking about something that, whether asked
+        about it or not, someone likes.
 
 - ko: ""
   en:
