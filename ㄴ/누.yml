@@ -6,6 +6,16 @@
     means:
       - "Refers to a task that is very easy."
 
+- ko: "누워서 떡먹으면 눈에 고물 들어간다."
+  en:
+    lit: "lie-down-and-so cake-eat-if eye-at powdered-bean go-in"
+    trans:
+      - "If you lie down while eating cake, you get crumbs in your eye."
+    means:
+      - >
+        This is used when someone gets hurt trying to do only comfortable
+        and easy jobs.
+
 - ko: ""
   en:
     lit: ""
