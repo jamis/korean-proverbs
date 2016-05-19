@@ -1,6 +1,6 @@
 - ko: "누워서 떡먹기."
   en:
-    lit: "lie-down-and-so cake-eating"
+    lit: "lie-down-while cake-eating"
     trans:
       - "Eating cake, lying down."
     means:
@@ -8,13 +8,24 @@
 
 - ko: "누워서 떡먹으면 눈에 고물 들어간다."
   en:
-    lit: "lie-down-and-so cake-eat-if eye-at powdered-bean go-in"
+    lit: "lie-down-while cake-eat-if eye-at powdered-bean go-in"
     trans:
       - "If you lie down while eating cake, you get crumbs in your eye."
     means:
       - >
         This is used when someone gets hurt trying to do only comfortable
         and easy jobs.
+
+- ko: "누워서 침 뱉기."
+  en:
+    lit: "lie-down-while spit spit-out"
+    trans:
+      - "Spit while lying down."
+    means:
+      - >
+        Just as the spit will fall in your own face if you spit while
+        lying down, this says that if you try to harm others, you will
+        instead inflict harm on yourself.
 
 - ko: ""
   en:
