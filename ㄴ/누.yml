@@ -27,6 +27,16 @@
         lying down, this says that if you try to harm others, you will
         instead inflict harm on yourself.
 
+- ko: "누울 자리 보고 발 뻗어라."
+  en:
+    lit: "lie-down-(will) place see-and feet stretch-out-(command)"
+    trans:
+      - "See a place to lie down, and stretch your feet."
+    means:
+      - >
+        When you've thought about and prepared for all the things
+        that need doing, you should get started.
+
 - ko: ""
   en:
     lit: ""
