@@ -37,6 +37,19 @@
         When you've thought about and prepared for all the things
         that need doing, you should get started.
 
+- ko: "누이 좋고 매부 좋다."
+  en:
+    lit: "sister good-and brother-in-law good."
+    trans:
+      - "My sister is good, and her husband is good."
+    means:
+      - >
+        Used when something is mutually good, or when one task
+        accomplishes twice as much.
+    eg:
+      - "What's good for the goose is good for the gander."
+      - "Two birds with one stone."
+
 - ko: ""
   en:
     lit: ""
