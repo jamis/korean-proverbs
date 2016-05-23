@@ -58,6 +58,19 @@
     means:
       - >
         This means that you try to trick someone using a shallow ruse.
+    eg:
+      - "Pull the wool over someone's eyes."
+
+- ko: "눈 감으면 코 베어먹을 세상."
+  en:
+    lit: "eyes close-if nose cut-off-(entirely) society"
+    trans:
+      - "It's a world that will cut off your nose if you close your eyes."
+    means:
+      - >
+        This phrase describes society's sinister tendencies.
+    eg:
+      - "It's a dog-eat-dog world."
 
 - ko: ""
   en:
