@@ -72,6 +72,16 @@
     eg:
       - "It's a dog-eat-dog world."
 
+- ko: "눈은 뜨고 입은 다물어야 한다."
+  en:
+    lit: "eyes open-and mouth close-must do"
+    trans:
+      - "You have to open your eyes and close your mouth."
+    means:
+      - >
+        This says that you must clearly see those things that can be
+        seen, and restrain yourself from speaking.
+
 - ko: ""
   en:
     lit: ""
