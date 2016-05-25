@@ -82,6 +82,16 @@
         This says that you must clearly see those things that can be
         seen, and restrain yourself from speaking.
 
+- ko: "눈이 눈썹을 못 본다."
+  en:
+    lit: "eye eyebrows cannot see."
+    trans:
+      - "The eye cannot see the eyebrows."
+    means:
+      - >
+        You generally cannot know a thing well that exists very close
+        to you.
+
 - ko: ""
   en:
     lit: ""
