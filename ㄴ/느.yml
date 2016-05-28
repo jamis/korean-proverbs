@@ -10,6 +10,16 @@
     eg:
       - "Slow, but steady."
 
+- ko: "늙어봐야 늙은이 심정 안다."
+  en:
+    lit: "old-try-must old-person heart-know"
+    trans:
+      - "You must be old, to know an old man's heart."
+    means:
+      - >
+        In order to appreciate someone's situation, you must
+        experience an identical situation.
+
 - ko: ""
   en:
     lit: ""
