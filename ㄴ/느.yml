@@ -41,6 +41,17 @@
         This says that if you listen to the words of an old person,
         who has experienced much, you will not come to harm.
 
+- ko: "늙은이도 세 살 먹은 어린이 말을 귀담아 들어라."
+  en:
+    lit: "old-person-too three age eaten youngling words listen-attentively(command)"
+    trans:
+      - "Even the elderly should listen carefully to the words of a three-year-old."
+    means:
+      - >
+        It's not that they have great age or sagacity, but a young
+        child's words do possess a kind of wisdom, and so we must listen
+        well to them.
+
 - ko: ""
   en:
     lit: ""
