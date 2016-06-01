@@ -52,6 +52,17 @@
         child's words do possess a kind of wisdom, and so we must listen
         well to them.
 
+- ko: "늙은이치고 젊어서 호랑이 안 잡은 사람 없다."
+  en:
+    lit: "old-man-(perform?)-and young-when tiger not caught person not-exists"
+    trans:
+      - "The elderly speak, and there is no one who has not caught a tiger in their youth."
+      - "To hear an old man tell it, you'd think everyone caught tigers in their youth."
+    means:
+      - >
+        When you are old, everyone inflates their youthful adventures
+        and boasts.
+
 - ko: ""
   en:
     lit: ""
