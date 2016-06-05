@@ -6,6 +6,16 @@
     means:
       - "Describes an action that ruins a completed task."
 
+- ko: "다 된 죽에 코 떨어뜨린다."
+  en:
+    lit: "all done porridge-at nose drop-into."
+    trans:
+      - "Put your nose in the porridge."
+    means:
+      - >
+        This means that you make a mistake and accidentally ruin a task
+        that was nearly completed.
+
 - ko: ""
   en:
     lit: ""
