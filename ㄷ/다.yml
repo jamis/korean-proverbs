@@ -16,6 +16,14 @@
         This means that you make a mistake and accidentally ruin a task
         that was nearly completed.
 
+- ko: "다 된 죽에 코 풀기."
+  en:
+    lit: "all done porridge-at nose blowing"
+    trans:
+      - "Blowing your nose into the porridge."
+    means:
+      - "This describes an action that ruins a completed task."
+
 - ko: ""
   en:
     lit: ""
