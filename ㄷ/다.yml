@@ -24,6 +24,15 @@
     means:
       - "This describes an action that ruins a completed task."
 
+- ko: "다람쥐 쳇바퀴 돌듯."
+  en:
+    lit: "squirrel rim-of-sieve go-around-like"
+    trans:
+      - "Like a squirrel going around the rim of a sieve."
+    means:
+      - "Every day, doing the exact same thing."
+      - "Without progressing, you walk only in your own place."
+
 - ko: ""
   en:
     lit: ""
