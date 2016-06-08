@@ -33,6 +33,17 @@
       - "Every day, doing the exact same thing."
       - "Without progressing, you walk only in your own place."
 
+- ko: "단 말은 병이 되고 쓴 말은 약이 된다."
+  en:
+    lit: "sweet words disease become-and bitter words medicine become"
+    trans:
+      - "Sweet words become illness, and bitter words, the medicine."
+    means:
+      - >
+        Among words you like to hear, flattery or lies abound, and so
+        you must be careful. Among words you dislike hearing are many
+        words of advice, which you should accept humbly.
+
 - ko: ""
   en:
     lit: ""
