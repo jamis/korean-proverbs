@@ -68,13 +68,23 @@
 
 - ko: "달리는 말 위에서 산 구경하기."
   en:
-    lit: "hurried words above mountain sightseeing"
+    lit: "hurried horse above mountain sightseeing"
     trans:
-      - "Looking at the mountains from above hurried words."
+      - "Looking at the mountains while riding a galloping horse."
     means:
       - >
         Because some task was very hurried, the details of it cannot
         be well known.
+
+- ko: "달리는 말에 채찍질한다."
+  en:
+    lit: "hurried horse-at urge-on"
+    trans:
+      - "Urge a galloping horse to hurry."
+    means:
+      - >
+        You're working diligently, and even if someone urges you to
+        go faster, you cannot.
 
 - ko: ""
   en:
