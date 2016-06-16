@@ -114,6 +114,16 @@
         After sending off several daughters in marriage, you will have
         spent so much money that living becomes difficult.
 
+- ko: "딸은 두 번 서운하다."
+  en:
+    lit: "daughter twice regrettable"
+    trans:
+      - "A daughter is twice regrettable."
+    means:
+      - >
+        When a daughter is born, that is regrettable, and when
+        she gets married, that is regrettable, too.
+
 - ko: ""
   en:
     lit: ""
