@@ -124,6 +124,16 @@
         When a daughter is born, that is regrettable, and when
         she gets married, that is regrettable, too.
 
+- ko: "딸을 알려면 그 어머니를 보라."
+  en:
+    lit: "daughter know-try-if the mother see"
+    trans:
+      - "If you would know the daughter, behold the mother."
+    means:
+      - >
+        The daughter is modelled after the mother, so if you see
+        the mother, you can know the daughter's character.
+
 - ko: ""
   en:
     lit: ""
