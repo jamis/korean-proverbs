@@ -134,6 +134,16 @@
         The daughter is modelled after the mother, so if you see
         the mother, you can know the daughter's character.
 
+- ko: "닭이 천 마리면 봉이 한 마리 있다."
+  en:
+    lit: "chicken one (animal)-if phoenix one (animal) exists"
+    trans:
+      - "Where there's a thousand chickens, there is one phoenix."
+    means:
+      - >
+        If many people gather, in the midst of them there is an
+        especially distinguished person.
+
 - ko: ""
   en:
     lit: ""
