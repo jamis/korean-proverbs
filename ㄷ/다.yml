@@ -156,6 +156,17 @@
       - >
         A job cannot be done simply, so you do it with difficulty.
 
+- ko: "닭 잡아먹고 오리발 내놓는다."
+  en:
+    lit: "chicken kill-and-eat-and web-foot serve"
+    trans:
+      - "Eat the chicken, and serve the duck."
+    means:
+      - >
+        You've done something bad, and been exposed, and through
+        some preposterous nonsense you manage to barely lie your
+        way out of it, but clumsily.
+
 - ko: ""
   en:
     lit: ""
