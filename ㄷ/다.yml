@@ -177,6 +177,17 @@
         A special food must be shared with a neighbor, but you do not
         share it, and so lose your neighbor's goodwill.
 
+- ko: "닭 쫓던 개 지붕 쳐다보듯."
+  en:
+    lit: "chicken chasing dog roof look-up-like"
+    trans:
+      - "Like the dog chasing the chicken, looking up at the roof."
+    means:
+      - >
+        This is used when something fails that you worked hard on, or
+        when you worked as hard as someone else and you can't help
+        but lag behind them.
+
 - ko: ""
   en:
     lit: ""
