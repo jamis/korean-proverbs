@@ -1,0 +1,16 @@
+- ko: "더운 밥 먹고 식은 말 한다."
+  en:
+    lit: "hot rice eat-and cooling words say"
+    trans:
+      - "Eat hot rice, and speak cooling words."
+    means:
+      - >
+        The same mouth that eats good rice, makes worthless noise.
+
+- ko: ""
+  en:
+    lit: ""
+    trans:
+      - ""
+    means:
+      - ""
