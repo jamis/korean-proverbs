@@ -30,6 +30,21 @@
         This means that something you've long worked for finally comes
         to fruition due to a fortuitous opportunity.
 
+- ko: "떡으로 치면 떡으로 치고, 돌로 치면 돌로 친다."
+  en:
+    lit: >
+      rice-cake-via strike-if rice-cake-via strike-and,
+      stone-via strike-if stone-via strike
+    trans:
+      - >
+        If they strike with rice cake, strike back with rice cake.
+        If they strike with a stone, strike back with a stone.
+    means:
+      - >
+        This describes the attitude of treating well someone who has
+        treated you well, and treating badly those who have injured
+        you.
+
 - ko: ""
   en:
     lit: ""
