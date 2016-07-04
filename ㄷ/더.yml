@@ -56,22 +56,3 @@
       - >
         Someone who should do a thing for you doesn't remember, and thinking
         the task is all done, leaves it barely half done.
-
-- ko: "뗏목 타고 바다 건넌다."
-  en:
-    lit: "log-raft ride-and ocean cross"
-    trans:
-      - "Ride a log raft across the ocean."
-    means:
-      - >
-        Riding a tiny log raft across the wide ocean is a dangerous thing,
-        so these words call out the wrong-headedness of "boldly" doing a
-        dangerous thing with insufficient thought.
-
-- ko: ""
-  en:
-    lit: ""
-    trans:
-      - ""
-    means:
-      - ""

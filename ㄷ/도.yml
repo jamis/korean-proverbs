@@ -1,0 +1,22 @@
+- ko: "도끼 가진 놈이 바늘 가진 놈을 못 당한다."
+  en:
+    lit: "axe carrying guy needle carying guy can't match"
+    trans:
+      - "The guy with an axe is no match for the guy with a needle."
+    means:
+      - >
+        If struck by an axe, a person dies, but if pricked by a needle
+        they suffer only a small injury. Thus, though a person with an
+        axe cannot wield it recklessly, a person with a needle can still
+        prick with it, and in the end the axe-wielding person cannot
+        prevail over the person with a needle. These words thus
+        suggest that there are circumstances where a stronger person
+        cannot defeat a weaker person.
+
+- ko: ""
+  en:
+    lit: ""
+    trans:
+      - ""
+    means:
+      - ""
