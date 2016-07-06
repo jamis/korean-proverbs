@@ -23,6 +23,16 @@
         You try to hurt someone else, and instead wind up hurting
         yourself.
 
+- ko: "도끼 자루 썩는 줄 모른다."
+  en:
+    lit: "axe handle gather-dust method doesn't-know"
+    trans:
+      - "He doesn't know the axe handle is gathering dust."
+    means:
+      - >
+        Used to describe someone being so engrossed in a task that
+        they don't even notice time passing.
+
 - ko: ""
   en:
     lit: ""
