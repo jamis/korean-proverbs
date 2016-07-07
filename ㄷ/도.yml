@@ -33,6 +33,16 @@
         Used to describe someone being so engrossed in a task that
         they don't even notice time passing.
 
+- ko: "도둑놈도 인정이 있다."
+  en:
+    lit: "theif-too human-feelings exists"
+    trans:
+      - "Even a thief has feelings."
+    means:
+      - >
+        Though a person does bad things, they nonetheless have
+        human feelings.
+
 - ko: ""
   en:
     lit: ""
