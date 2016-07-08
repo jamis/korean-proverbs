@@ -43,6 +43,16 @@
         Though a person does bad things, they nonetheless have
         human feelings.
 
+- ko: "도둑은 앞으로 잡지 뒤로 잡나."
+  en:
+    lit: "thief front-via grab-not back-via grab-always"
+    trans:
+      - "A thief never grabs from the front, always from behind."
+    means:
+      - >
+        Without definite evidence, one cannot accuse another of being
+        a thief.
+
 - ko: ""
   en:
     lit: ""
