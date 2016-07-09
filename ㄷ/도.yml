@@ -53,6 +53,14 @@
         Without definite evidence, one cannot accuse another of being
         a thief.
 
+- ko: "도마 위 고기가 칼을 무서워하랴."
+  en:
+    lit: "chopping-board above meat knife afraid-of-shall"
+    trans:
+      - "The meat on the chopping board can't be afraid of the knife."
+    means:
+      - "If something is already dead, it can't feel fear."
+
 - ko: ""
   en:
     lit: ""
