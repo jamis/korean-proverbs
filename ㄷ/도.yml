@@ -61,6 +61,16 @@
     means:
       - "If something is already dead, it can't feel fear."
 
+- ko: "독 안에 든 쥐."
+  en:
+    lit: "jar inside-at placed mouse"
+    trans:
+      - A mouse in a jar.
+    means:
+      - >
+        Used when you've fallen into a situation where you cannot escape
+        or even budge, no matter how hard you try.
+
 - ko: ""
   en:
     lit: ""
