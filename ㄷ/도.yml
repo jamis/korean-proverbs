@@ -71,6 +71,21 @@
         Used when you've fallen into a situation where you cannot escape
         or even budge, no matter how hard you try.
 
+- ko: "돈 모아 줄 생각 말고 자식 글 가르쳐 주랬다."
+  en:
+    lit: >
+      money accumulate(-and) give thought not-and-instead
+      offspring letters teach(-and) give
+    trans:
+      - >
+        Think not to leave money for your children, but rather give
+        them education.
+    means:
+      - >
+        Accumulating money to leave to your children is good, but
+        spending that money on education for your children is
+        even better.
+
 - ko: ""
   en:
     lit: ""
