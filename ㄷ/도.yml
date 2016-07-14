@@ -109,6 +109,16 @@
         disastrous events, and so when earning or spending
         money, you must do it wisely.
 
+- ko: "돈은 앉아서 주고 서서 받는다."
+  en:
+    lit: "money sitting-while give-and stand-while receive"
+    trans:
+      - "Sit when giving money, stand when receiving."
+    means:
+      - >
+        This means that, although it is easy to give money to others, it
+        is difficult to receive it.
+
 - ko: ""
   en:
     lit: ""
