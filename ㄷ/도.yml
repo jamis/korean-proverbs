@@ -129,6 +129,16 @@
         No matter how well you trust a thing, proceed carefully and
         certainly.
 
+- ko: "돌부리를 차면 발부리만 아프다."
+  en:
+    lit: "jagged-edge-of-stone kick-if tip-of-toes-only hurt"
+    trans:
+      - "If you kick a bit of stone, you'll only hurt your toe."
+    means:
+      - >
+        If you're angry and you take it out on whatever is nearby,
+        that anger will turn on you.
+
 - ko: ""
   en:
     lit: ""
