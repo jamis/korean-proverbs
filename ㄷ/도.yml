@@ -139,6 +139,17 @@
         If you're angry and you take it out on whatever is nearby,
         that anger will turn on you.
 
+- ko: "돌팔이 의사가 사람 잡는다."
+  en:
+    lit: "travelling-trader doctor [quack] person ensnares"
+    trans:
+      - "The quack doctor catches someone."
+    means:
+      - >
+        This is used to mean that someone with inferior learning or who
+        is pretending to possess some ability has made a muddle of some
+        task.
+
 - ko: ""
   en:
     lit: ""
