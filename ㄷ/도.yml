@@ -168,6 +168,16 @@
     means:
       - "Far from helping, you instead injure or interfere."
 
+- ko: "동네 색시 믿다가 장가 못 간다."
+  en:
+    lit: "village maiden trust-and-then married cannot go"
+    trans:
+      - "Trust the village maiden, but then you don't get married."
+    means:
+      - >
+        By your own judgement you trust others, and when things don't
+        turn out, you use this proverb.
+
 - ko: ""
   en:
     lit: ""
