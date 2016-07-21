@@ -178,6 +178,16 @@
         By your own judgement you trust others, and when things don't
         turn out, you use this proverb.
 
+- ko: "동네 송아지는 커도 송아지라 한다."
+  en:
+    lit: "village calf big-although calf-is say"
+    trans:
+      - "Though the village calf grows, you say it is a calf."
+    means:
+      - >
+        Though a thing that you've always seen has changed, you don't
+        recognize the change.
+
 - ko: ""
   en:
     lit: ""
