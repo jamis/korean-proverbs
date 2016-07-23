@@ -188,6 +188,16 @@
         Though a thing that you've always seen has changed, you don't
         recognize the change.
 
+- ko: "동무따라 강남간다."
+  en:
+    lit: "friend-with Kangnam-go."
+    trans:
+      - "Go with a friend to Kangnam."
+    means:
+      - >
+        This is used to describe following someone else's desires over
+        your own.
+
 - ko: ""
   en:
     lit: ""
