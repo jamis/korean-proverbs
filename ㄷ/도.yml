@@ -198,6 +198,14 @@
         This is used to describe following someone else's desires over
         your own.
 
+- ko: "동에 번쩍 서에 번쩍한다."
+  en:
+    lit: "east-at easily west-at easily does"
+    trans:
+      - "East or west, without effort."
+    means:
+      - "Describes coming and going, with no one to stop you."
+
 - ko: ""
   en:
     lit: ""
