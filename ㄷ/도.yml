@@ -219,6 +219,18 @@
         to when things are not. Thus, this says that a thing will vary often
         according to circumstance.
 
+- ko: "똥 묻은 개가 겨 묻은 개 나무란다."
+  en:
+    lit: "dung smeared dog chaff covered dog scolds"
+    trans:
+      - "The dung-smeared dog scolds the chaff-covered dog."
+    means:
+      - >
+        A person with a large fault disparages a person with a
+        small fault.
+    eg:
+      - "The pot calls the kettle black."
+
 - ko: ""
   en:
     lit: ""
