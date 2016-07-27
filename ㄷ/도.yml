@@ -231,6 +231,16 @@
     eg:
       - "The pot calls the kettle black."
 
+- ko: "똥이 무서위서 피하나? 더러위서 피하지."
+  en:
+    lit: "dung fearsome-and-so avoid? dirty-and-so avoid(isn't it so)"
+    trans:
+      - "Do you avoid poop because it's scary? No, but because it's dirty."
+    means:
+      - >
+        You avoid a bad person not because they are fearsome, but because
+        they cannot be someone worth keeping company with.
+
 - ko: ""
   en:
     lit: ""
