@@ -1,0 +1,20 @@
+- ko: "되로 주고 말로 받는다."
+  en:
+    lit: "doe(small-measure)-by give-and mal(bigger-measure)-by receive"
+    trans:
+      - "Give by the pint, receive by the bushel."
+    means:
+      - >
+        This suggests giving little and receiving (by comparison)
+        a lot. Thus, it means that you see great benefit.
+      - >
+        This also can mean that though I inflict only a small injury
+        on someone, it will turn upon me as an even larger injury.
+
+- ko: ""
+  en:
+    lit: ""
+    trans:
+      - ""
+    means:
+      - ""
