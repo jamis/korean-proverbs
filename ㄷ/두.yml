@@ -1,0 +1,17 @@
+- ko: "두 손뼉이 마주쳐야 소리가 난다."
+  en:
+    lit: "two flat-of-hand crash-together-only-if sound comes-out"
+    trans:
+      - "Two hands must clap together to make a sound."
+    means:
+      - >
+        Two together can accomplish a task only if their purposes
+        match.
+
+- ko: ""
+  en:
+    lit: ""
+    trans:
+      - ""
+    means:
+      - ""
