@@ -1,0 +1,20 @@
+- ko: "드는 정은 몰라도 나는 정은 안다."
+  en:
+    lit: "entering emotion not-know-even-though coming-out emotion know"
+    trans:
+      - "Though you don't know the feeling you have, you know it when it leaves."
+    means:
+      - >
+        You may not know what you're feeling when you feel it, but when
+        the feeling goes away, you certainly feel the lack. Just so, you
+        can easily come to miss someone when they've gone away.
+    eg:
+      - "You never know what you've got until it's gone."
+
+- ko: ""
+  en:
+    lit: ""
+    trans:
+      - ""
+    means:
+      - ""
