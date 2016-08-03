@@ -11,6 +11,16 @@
     eg:
       - "You never know what you've got until it's gone."
 
+- ko: "들으면 병이요 안 들으면 약이다."
+  en:
+    lit: "have-if disease-is (and) not-have-if medicine is."
+    trans:
+      - "If you own it, it's a disease. If you don't, it's medicine."
+    means:
+      - >
+        If the having of a thing is not good, then it is preferable to
+        get along without it.
+
 - ko: ""
   en:
     lit: ""
