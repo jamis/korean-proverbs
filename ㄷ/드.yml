@@ -21,6 +21,17 @@
         If the having of a thing is not good, then it is preferable to
         get along without it.
 
+- ko: "등잔 밑이 어둡다."
+  en:
+    lit: "lamp-oil-container bottom dark"
+    trans:
+      - "The bottom of the lamp is dark."
+    means:
+      - "This means that you do not know what happens nearby."
+    eg:
+      - "The husband is always the last to know."
+      - "You must go to the country to hear the news from London."
+
 - ko: ""
   en:
     lit: ""
