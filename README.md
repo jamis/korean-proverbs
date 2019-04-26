@@ -11,7 +11,7 @@ If you find any errors in the translations, please let me know! Pull requests ar
 
 ## Methodology
 
-In the 속다백과 book, each proverb is accompanied by a brief explanation, in Korean. In deference to the copyright holder, I've not included the original Korean explanation, and instead have simply tried to translate it into English as best I can.
+In the 속담백과 book, each proverb is accompanied by a brief explanation, in Korean. In deference to the copyright holder, I've not included the original Korean explanation, and instead have simply tried to translate it into English as best I can.
 
 In several instances I've been stumped by vocabulary or grammar forms that are not included in the dictionary I'm using. In these cases, I've done my best to research similar forms or words and used context to deduce the intended meaning, but in these attempts I may have gone very far wrong!
 
