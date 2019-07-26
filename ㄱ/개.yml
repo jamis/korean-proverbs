@@ -164,7 +164,7 @@
   en:
     lit: "dog poop scary-and-so avoid-but dirty-and-so avoid-(really)"
     trans:
-      - "Whether dog poop is scary or dirty, best to avoid it."
+      - "You avoid dog poop because it's dirty, not because it's scary."
     means:
       - >
         This means that you must not fight with a poorly-behaved
